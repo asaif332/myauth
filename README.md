@@ -23,4 +23,4 @@ How to use ?
 
 <strong>Note - For using the reset pasword functionality, please make sure you have correctly configured the email settings.</strong>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can do so by adding email.php in application/config folder.
+You can do so by adding email.php in application/config folder.
