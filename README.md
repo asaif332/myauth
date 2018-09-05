@@ -39,6 +39,7 @@ You can do so by adding email.php in application/config folder.
       <b>check()</b><br>
       Syntax - $this->myauth->check() <br>
       Use - checks whether the user is logged in or not.<br>
+      Return - Function returns true if user is logged in else false.<br>
       
       Parameters - If you are using parameters in check() function then use role names as parameters.
       Example - $this->myauth->check('admin')
