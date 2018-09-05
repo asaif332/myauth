@@ -4,7 +4,7 @@ Simple authentication and authorization library for codeigniter
 
 How to setup ?
 
-1. Copy the myauth folder in the third party folder.
+1. Copy the myauth folder in the third party folder of your application.
 
 
 2. Autoload the package and library in autoload.php <br>
